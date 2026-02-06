@@ -72,7 +72,7 @@ h1 {
     transform: rotateX(-15deg) rotateY(0deg);
   }
   to {
-    transform: rotateX(-15deg) rotateY(360deg);
+    transform: rotateX(-15deg) rotateY(-360deg);
   }
 }
 
